@@ -33,7 +33,6 @@ class Trips{
     this.id = tripId++;
     store.trips.push(this);
    }
-  
 }
 
 
