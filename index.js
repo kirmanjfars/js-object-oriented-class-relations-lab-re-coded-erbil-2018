@@ -1,7 +1,7 @@
 let store = { drivers: [], passengers: [], trips: [] };
 
 class Driver{
-  constractor(name){
+  constructor(name){
   this.name = name;
   }
   
